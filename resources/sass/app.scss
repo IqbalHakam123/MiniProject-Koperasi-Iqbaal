@@ -1,0 +1,22 @@
+// Fonts
+// @import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+// @import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.home-banner-area {
+    background: url(/resources/images/home-banner-bg.png.webp) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    max-height: 1200px;
+}
+
+.bg-nav{
+    background-color: #8533FA;
+    color: fff;
+}
+
